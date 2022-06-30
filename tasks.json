@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Learn types in graphql",
+    "description": "Learn types in graphql",
+    "deadline": "2020-01-01"
+  },
+  {
+    "id": "2",
+    "name": "Learn mutations in graphql",
+    "description": "Learn types in graphql",
+    "deadline": "2020-01-01"
+  }
+]
